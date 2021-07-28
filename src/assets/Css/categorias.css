@@ -1,0 +1,86 @@
+.textoNombre{
+    font-family: 'Itim', cursive;
+    font-family: 'Patrick Hand', cursive;
+    color: #152b43;
+    font-size: 25px;
+    text-align: center;
+}
+
+.textoSelectCate {
+    font-family: 'Patrick Hand', cursive;
+    color: #4b7990;
+    font-size: 30px;
+}
+
+.catName{
+    font-family: 'Itim', cursive;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 30px;
+    color: #eb8f4c;
+}
+
+.imagen-concep
+{
+    margin-top: -10px;
+    margin-left: 50px;
+    margin-bottom: 35px;
+}
+
+.columna1Cat
+{
+    width: 25%;
+    height: 70vh;
+    text-align: center;
+}
+
+.columna2Cat
+{
+    width: 25%;
+    height: 70vh;
+    text-align: center;
+}
+
+.columna3Cat
+{
+    width: 25%;
+    height: 70vh;
+    text-align: center
+}
+
+.columna4Cat
+{
+    width: 25%;
+    height: 70vh;
+    text-align: center;
+}
+
+.header{
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+}
+
+.cuerpo
+{
+    display: flex;
+}
+
+.intupuNombre
+{
+    background-color: aliceblue;
+    height: 30px;
+    width: 227px;
+}
+
+.btnConfCat{
+    font-family: 'Rubik', sans-serif;
+    font-size: 15px;
+    background-color: #7bb38d;
+    border-radius: 7px;
+    border: none;
+    color: #e9effd;
+    padding: 10px 15px;
+    box-shadow: 7px 5px 5px #fa996c;
+}

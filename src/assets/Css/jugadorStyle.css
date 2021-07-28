@@ -1,0 +1,132 @@
+
+.header{
+    font-family: 'Itim', cursive;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 35px;
+    font-size: 35px;
+    color: #c5db5d;
+    text-align:center;
+}
+
+.footer{
+    text-align: center;
+}
+
+.estatusJugador{
+    display: none;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+}
+
+.estatus{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.columna1
+{
+    background-color: #f4e4d7;
+    width: 45%;
+    height: 90vh;
+
+}
+.columna2
+{
+    background-color: #f4e4d7;
+    width: 55%;
+    height: 90vh;
+}
+
+.cuerpo
+{
+    display: flex;
+}
+
+.respueta-j2{
+    background-color: #f1b39c;
+    width: 75%;
+    height: 60vh;
+    overflow-y: scroll;
+    border-radius: 1%;
+}
+
+.nombre{
+    color: black;
+    font-family: sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.textoNombreP{
+    font-family: 'Patrick Hand', cursive;
+    color: #4b7990;
+    font-size: 25px;
+    text-align: center;
+}
+
+.imgA{
+    font-family: 'Patrick Hand', cursive;
+    color: #ce8f5a;
+    font-size: 20px;
+    text-align: center;
+}
+
+.imagen-concep
+{
+    margin-top: -10px;
+    margin-left: 50px;
+    margin-bottom: 35px;
+    text-align: center;
+}
+
+.respuestaA{
+    font-family: 'Itim', cursive;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 20px;
+    color: #ce8f5a;
+}
+
+.barrTex{
+    margin: 15px;
+    border-radius: 7px;
+    border: none;
+    background-color: #d6ccc3;
+    padding: 10px 15px;
+    text-align:center;
+}
+
+.btnEnP{
+    font-family: 'Rubik', sans-serif;
+    font-size: 15px;
+    background-color: #72a75b;
+    border-radius: 7px;
+    border: none;
+    color: #e9effd;
+    padding: 10px 15px;
+    box-shadow: 7px 5px 5px #fa996c;
+}
+
+.btnResul{
+    font-family: 'Rubik', sans-serif;
+    font-size: 15px;
+    background-color: #f9635c;
+    border-radius: 7px;
+    border: none;
+    color: #e9effd;
+    padding: 10px 15px;
+    margin: 35px;
+    box-shadow: 7px 5px 5px #eb8f4c;
+}
+
+.finalResul{
+    font-family: 'Itim', cursive;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Zen Loop', cursive;
+    font-size: 30px;
+    color: #da982d;
+}

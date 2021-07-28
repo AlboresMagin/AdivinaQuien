@@ -1,0 +1,11 @@
+.contenedorChat{
+    background-color: gold;
+    width: 98%;
+    height: 75vh;
+    overflow-y: scroll;
+}
+
+.chat {
+    background-color: lightcyan;
+    width: 25%;
+}

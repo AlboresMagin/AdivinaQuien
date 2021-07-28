@@ -1,0 +1,80 @@
+*{
+    background-color: #f4e4d7;
+}
+
+.tituloPrin{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 100px;
+    color: #4b7990;
+    text-shadow: 10px 10px #d0836f;
+    text-align:center;
+}
+
+.titSub{
+    font-family: 'Itim', cursive;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 35px;
+    color: #9ca9b1;
+    text-align:center;
+}
+
+.titFin{
+    font-family: 'Itim', cursive;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Zen Loop', cursive;
+    font-size: 35px;
+    color: #142a42;
+    text-align:center;
+}
+
+.btnConf{
+    font-family: 'Rubik', sans-serif;
+    font-size: 15px;
+    background-color: #a59eb0;
+    border-radius: 7px;
+    border: none;
+    color: #e9effd;
+    padding: 10px 15px;
+    box-shadow: 7px 5px 5px #fa996c;
+}
+
+.btnConf2{
+    font-family: 'Rubik', sans-serif;
+    font-size: 15px;
+    background-color: #a59eb0;
+    border-radius: 7px;
+    border: none;
+    color: #e9effd;
+    padding: 10px 15px;
+    margin: 35px;
+    box-shadow: 7px 5px 5px #fa996c;
+}
+
+.label{
+    margin: 15px;
+    border-radius: 7px;
+    border: none;
+    background-color: #d6ccc3;
+    padding: 10px 15px;
+    text-align:center;
+}
+
+.divUsuarios{
+    text-align: center;
+}
+
+.prueba{
+    text-align: center;
+}
+
+.btnIniciar{
+    text-align: center;
+}
+
+.pieIma{
+    top: -15px;
+    left: -5px;
+    width: 631.5155px;
+    height: 150px;
+    object-fit: cover;
+}
